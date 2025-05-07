@@ -36,3 +36,6 @@
 <h3>Step 4: Lastly, Run the python file that is provided and Schedule your first message!</h3>
 
 ```python3 signals.py```
+
+
+![Screenshot_2025-05-07_16_45_41](https://github.com/user-attachments/assets/5d9b580d-5fe7-4168-84b6-a6ca0da8bbf7)
